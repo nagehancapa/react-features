@@ -1,3 +1,5 @@
+# This repository contains my study from the last section of oreilly The Complete React Developer Course (with Hooks and Redux).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
